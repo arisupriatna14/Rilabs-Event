@@ -1,0 +1,79 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Lottie",
+        "repositoryURL": "https://github.com/airbnb/lottie-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "4e5877425dae5c10792fc9d22d53dc6bf6824dc1",
+          "version": "3.1.8"
+        }
+      },
+      {
+        "package": "Nuke",
+        "repositoryURL": "https://github.com/kean/Nuke.git",
+        "state": {
+          "branch": null,
+          "revision": "6001489d22e5f41a4956c1b6cd4cf7cbe8f44dff",
+          "version": "8.4.1"
+        }
+      },
+      {
+        "package": "RxGesture",
+        "repositoryURL": "https://github.com/RxSwiftCommunity/RxGesture.git",
+        "state": {
+          "branch": null,
+          "revision": "867f176b6695829e350fafc00b5a849bb46a1857",
+          "version": "3.0.3"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "002d325b0bdee94e7882e1114af5ff4fe1e96afa",
+          "version": "5.1.1"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit.git",
+        "state": {
+          "branch": null,
+          "revision": "d458564516e5676af9c70b4f4b2a9178294f1bc6",
+          "version": "5.0.1"
+        }
+      },
+      {
+        "package": "Starscream",
+        "repositoryURL": "https://github.com/daltoniam/Starscream.git",
+        "state": {
+          "branch": null,
+          "revision": "df8d82047f6654d8e4b655d1b1525c64e1059d21",
+          "version": "4.0.4"
+        }
+      },
+      {
+        "package": "StreamChat",
+        "repositoryURL": "https://github.com/GetStream/stream-chat-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "36b70cac9e4873ab8e87380599e1b53af5a7760a",
+          "version": "2.4.0"
+        }
+      },
+      {
+        "package": "SwiftyGif",
+        "repositoryURL": "https://github.com/kirualex/SwiftyGif.git",
+        "state": {
+          "branch": null,
+          "revision": "420d12cba8338b03993f73a72c1f6b70d5273cf2",
+          "version": "5.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
